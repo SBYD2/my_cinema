@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgb(183, 182, 182);
+}
+header{
+    background-color: darkgray;
+
+}
+
+
+    h1{
+        font-family: initial;
+        font-size: larger;
+        color: rgb(0, 0, 255);
+        margin-left: 30px;
+        
+  }
+    
+    button.film{
+            color: blue;
+            margin-left: 30px;
+        }
+    
+    button.salles{
+             color: blue;
+            margin-left: 30px;
+        }    
+
+    button.planning{
+             color: blue;
+            margin-left: 30px;
+    
+    }    
+
+    
+        
+        
+    
+
+
+
+
+
+
